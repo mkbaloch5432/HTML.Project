@@ -1,0 +1,202 @@
+
+/* My Self is CSS */
+
+.bg h1{
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    width: 30%;
+    text-align: center;
+    font-weight: 300;
+    margin: 50px auto;
+}
+.bg h2{
+    background: yellow;
+    width: 60%;
+    border:2px solid pink;
+    border-radius: 10px;
+    text-align: center;
+}
+.bg h3{
+    background-color: yellow;
+    width: 20%;
+    text-align: center;
+    border: 2px solid pink;
+}
+.bg a{
+    text-decoration: none;
+}
+.bg a:hover{
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: yellow;
+    font-weight: bold;
+    padding: 5px;
+    /* margin: 3px auto; */
+}
+
+.hover a{
+    background:skyblue;
+    border-radius: 10px 10px;
+    padding: 10px;
+    text-decoration: none;
+    margin: 5px;
+    border: 2px solid black;
+    font-weight: bold;
+    
+}
+.hover a:hover{
+    background: red;
+    padding: 15px;
+}
+
+
+/* Registration Form is CSS */
+.Registration {
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 10px;
+    padding: 50px 50px 50px 50px;
+    width: 400px;
+    margin: 50px auto;  
+}
+
+.Registration button{
+    border-radius: 5px;
+    text-align: center;
+    font-style: italic;
+    border-spacing: 10px 10px;
+    margin:  1px auto;
+}
+
+.Registration button:hover{
+    background-color: pink;
+    font-weight: bold;
+    padding: 5px;   
+}
+
+.Registration input{
+    border-radius: 10px;
+    padding:10px;
+}
+
+.background{
+    background-color: aqua;
+    padding: 10px 10px ;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+
+.Registration a:hover{
+    background-color: yellow;
+    font-weight: bold;
+    color: violet;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1px 5px;
+    text-decoration: none;
+}
+
+.ce h1{
+    font-weight: bold;
+    color:blue;
+    border: 2px solid black;
+    width: 30%;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.ce a{
+    background:skyblue;
+    border-radius: 10px 10px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    font-weight: bold;
+    margin: 1px;
+}
+.ce a:hover{
+    background: red;
+    padding: 15px;
+}
+
+/* Login Form is CSS*/
+.Login {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: burlywood;
+    padding: 10px 10px;
+    width: 400px;
+    margin: 50px auto;
+}
+.Login a:hover{
+    background: yellow;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 1px 5px;
+    border: 2px solid black;
+    color: pink;
+    font-weight: bold;
+}
+
+.Login button:hover{
+    background:pink;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+
+.Login input{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.nav{
+    padding: 15px;
+}
+.nav a{
+    background:skyblue;
+    border-radius: 10px 10px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    font-weight: bold;
+}
+.nav a:hover{
+    background: red;
+    padding: 15px;
+}
+
+/* Assignment 1 is CSS */
+
+.ces a{
+    background:skyblue;
+    border-radius: 10px 10px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    font-weight: bold;
+    margin:2px;
+}
+.ces a:hover{
+    background: red;
+    padding: 15px;
+}
+
+/* Home paga is CSS */
+
+.cess a{
+    border: 2px solid black;
+    border-radius: 10px;
+    background: skyblue;
+    padding: 10px;
+    margin: 2px;
+    text-decoration: none;
+}
+.cess a:hover{
+    background: red;
+    padding: 15px;
+}
+
+
+
